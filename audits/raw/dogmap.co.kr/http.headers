@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+date: Sun, 01 Nov 2026 04:11:35 GMT
+content-type: text/html; charset=UTF-8
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+location: https://dogmap.co.kr/
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=A4G2ewOQAkPqrkZLff4FUmhpXF9I33juE2GS6VlW19qtTZ8fD8UOVNlowXfd2FxuXRjOSzXEV3OFj4LYGaw%2FL%2BbdnZ5%2BE6aUv18q8dy0SUupp%2FRkObmUn7meXD5Wi9g%3D"}]}
+server: cloudflare
+cf-cache-status: DYNAMIC
+cf-ray: a5380e68a95a011d-ORD
+alt-svc: h3=":443"; ma=86400
+transfer-encoding: chunked
+
